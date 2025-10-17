@@ -4,3 +4,5 @@ easyocr
 requests
 Pillow
 python-dotenv
+google-generativeai
+pydantic
